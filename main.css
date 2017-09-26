@@ -1,0 +1,28 @@
+#back{
+    height: 78px;width: 287px;
+    background-image: url(image/images.png);
+    position: absolute;
+    left: 150px;
+    top:150px;
+}
+
+#front{
+    height: 78px;width: 287px;
+    background-image: url(image/images.png);
+    position: absolute;
+    left: 150px;
+    top:150px; 
+}
+
+#sat{
+    background-image: url(image/ex.jpg);
+    background-size: cover;
+    border-radius: 50px;
+    height: 100px; width: 100px;
+    position: absolute;
+    left: 50px; top: 180px;    
+}
+#ex{
+    height: 100px;width: 50px;
+    background-color: black;
+}
