@@ -17,7 +17,6 @@ function start(){
     t+= inc;
     satellite.style.width =(Math.round(y1/2))+'px';
     satellite.style.height =(Math.round(y1/2))+'px';
-    console.log(y1/2);
     satellite.style.top = y1+'px';
     satellite.style.left = x1+'px';
     if (x1==40){fr.style.visibility='visible';}
